@@ -79,4 +79,5 @@ This loads `Loan_MLP_Model.pkl` and `Loan_Scaler.pkl` and prints a High Risk / L
 
 ## Author
 
-Name - Avishkar Zanzane
+Name - AVISHKAR ZANZANE
+[GitHub](https://github.com/Avizanzane44)
